@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/linearLayout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bigTitle"
+        android:text="Big Title"
+        android:textSize="30sp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#000"
+        android:paddingTop="16dp"
+        android:layout_centerHorizontal="true"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgSrc"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/egyption"
+        android:layout_below="@+id/bigTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/article"
+        android:text="Big Title"
+        android:paddingRight="10dp"
+        android:isScrollContainer="true"
+        android:textSize="16sp"
+        android:layout_below="@+id/imgSrc"
+        android:paddingTop="16dp"
+        android:paddingLeft="16dp"
+        android:paddingBottom="5dp"
+        />
+
+
+
+</RelativeLayout>

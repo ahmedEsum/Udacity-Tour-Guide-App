@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tour Guide APP</string>
+    <string name="Fragment_Museum">Museum</string>
+    <string name="Fragment_History">History</string>
+    <string name="Fragment_Beaches">Beaches</string>
+    <string name="Fragment_Restaurant">Restaurant</string>
+
+
+    <string name="Orange_Bay">Orange Bay</string>
+    <string name="Orange_Bay_article">Sandy strip on an island, with clear blue waters known for snorkeling, swimming and al fresco dining.</string>
+    <string name="Ras_Mohamed">Ras Mohamed</string>
+    <string name="Ras_Mohamed_article">Ras Mohammad is a national park in Egypt at the southern extreme of the Sinai Peninsula, overlooking the Gulf of Suez on the west and the Gulf of Aqaba to the east.</string>
+    <string name="ALNayzak">AL-Nayzak</string>
+    <string name="ALNayzak_article">A few kilometers drive through a rocky terrain after turning off the main road, your eyes will meet not only the shimmering sea waves but a very scenic view. Called by the locals the Shooting Star, it is a natural pool made of a unique rock formation which is believed to have been shaped by a meteorite hitting the coast. While proving the origins and its timing could be a task for the scientific, the place certainly qualifies as a star amongst the scenic places along the Red Sea and has become a popular summer beach stop for those who like to go beyond the usual locations.</string>
+
+
+    <string name="EgyptianPyramids">Egyptian Pyramids</string>
+    <string name="Egyptian_Pyramids_article">The Great Pyramid of Giza is the oldest and largest of the pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.</string>
+    <string name="AbuSimbelvillage">Abu Simbel village</string>
+    <string name="AbuSimbelvillage_article">Abu Simbel is a village in the Egyptian part of Nubia, about 240 km southwest of Aswan and near the border with Sudan. As of 2012, it has about 2600 inhabitants. It is best known as the site of the Abu Simbel temples, which were built by King Ramses II</string>
+    <string name="TheKarnakTemple">The Karnak Temple</string>
+    <string name="TheKarnakTemple_article">The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings near Luxor, in Egypt.</string>
+    <string name="ValleyOfTheKingsTombs">Valley Of The Kings Tombs</string>
+    <string name="ValleyOfTheKingsTombs_article">The ancient Egyptians built massive public monuments to their pharaohs. But they also spent time and treasure creating hidden underground mausoleums. The most famed collection of such elaborate tombs—the Valley of the Kings—lies on the Nile\'s west bank near Luxor.</string>
+
+    <string name="Cairo_Coptic_Museum">Cairo Coptic Museum</string>
+    <string name="Cairo_Coptic_Museum_article">The Coptic Museum is a museum in Coptic Cairo, Egypt with the largest collection of Egyptian Christian artifacts in the world. It was founded by Marcus Simaika in 1908 to house Coptic antiquities. The museum traces the history of Egypt from its beginnings to the present day.</string>
+    <string name="Egyptian_Museum">Egyptian Museum</string>
+    <string name="Egyptian_Museum_article">The Egyptian Museum was founded in 1858, moved to Giza, and moved to its present site in 1897–1902. It is unique in its presentation of the whole history of Egyptian civilization, especially of antiquities of the Pharaonic and Greco-Roman periods. The more than 100,000 items in the museum include some 1,700 items from the tomb of Tutankhamen, including the solid-gold mask that covered the pharaoh\’s head. Other treasures include reliefs, sarcophagi, papyri, funerary art and the contents of various tombs (including that of Queen Hetepheres), jewelry, ornaments of all kinds, and other objects. There is a block statue of Queen Hetepheres, one of the earliest examples of its type, and there is also a black granite sculpture of Queen Nefertiti. A sculpture of Amenhotep II shows him as the god Tenen. There are also granite figures of Queen Hatshepsut, as well as colossal figures of Amenhotep IV (Akhenaton) from Karnak. The museum also houses a small but fine collection of Fayum portraits from Hellenistic and Roman times.</string>
+    <string name="Islamic_Museum">Islamic Museum</string>
+    <string name="Islamic_Museum_article"> The Museum of Islamic Art in Cairo, Egypt is considered one of the greatest in the world, with its exceptional collection of rare woodwork and plaster artefacts, as well as metal, ceramic, glass, crystal, and textile objects of all periods, from all over the Islamic world.</string>
+    <string name="The_GayerAnderson_Museum">The Gayer-Anderson Museum</string>
+    <string name="The_GayerAnderson_Museum_article">The Gayer-Anderson Museum is an art museum located in Cairo, Egypt. It is situated adjacent to the Mosque of Ahmad ibn Tulun in the Sayyida Zeinab neighborhood. The building takes its name from Major R.G.</string>
+    <string name="Luxor_Museum">Luxor Museum</string>
+    <string name="Luxor_article">Luxor Museum is an archaeological museum in Luxor, Egypt. It stands on the corniche, overlooking the west bank of the River Nile.</string>
+
+    <string name="Abou_Tarek">Abou Tarek</string>
+    <string name="abou_tark_article">Koshary is made of rice, macaroni, and lentils mixed together, topped with a spiced tomato sauce and garlic vinegar and garnished with chickpeas and crispy fried onions. It is often served with sprinklings of garlic juice; garlic vinegar and hot sauce are optional.</string>
+    <string name="Le_Pacha_1901">Le Pacha 1901</string>
+    <string name="la_pasha_article">It has a nice view on River Nile also it\'s a very special restaurant.</string>
+    <string name="El_Prince">El Prince</string>
+    <string name="El_pricnce_article">It\'s a whole new experiment that you will never regret.</string>
+    <string name="Indira_Indian">Indira Indian</string>
+    <string name="indian_article">Feast on traditional Indian cuisine at Indira Restaurant, with kebabs fresh from the tandoor oven. This exquisite specialty restaurant serves delicious Indian cuisine using only fresh ingredients in an authentic setting.</string>
+
+
+
+</resources>
